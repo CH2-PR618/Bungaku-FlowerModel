@@ -41,6 +41,6 @@ The model is compiled with the Adam optimizer, categorical crossentropy loss, an
 The trained model is converted to TensorFlow Lite format using the `TFLiteConverter`.
 The converted model is saved to a .tflite file in the specified directory.
 
-## Conclusion
+# Contributing
 
-The script successfully develops and trains a flower classification model using transfer learning with MobileNetV2. The resulting model is converted to TensorFlow Lite, making it suitable for deployment on resource-constrained environments, such as mobile devices or edge devices.
+Feel free to contribute to the development of Bungaku API by submitting issues, suggesting improvements, or opening pull requests. We welcome your ideas and collaboration to make this project even better!
