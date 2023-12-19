@@ -43,7 +43,7 @@ The model is compiled with the Adam optimizer, categorical crossentropy loss, an
 The trained model is converted to TensorFlow Lite format using the `TFLiteConverter`.
 The converted model is saved to a .tflite file in the specified directory.
 
-## result 
+## Result
 
 ![Plot](https://github.com/CH2-PR618/Bungaku-FlowerModel/blob/main/development/model/training_plot.png)
 
