@@ -1,5 +1,7 @@
 # Flower Classification Model using MobileNetV2
 
+**Bungaku** is a mobile app designed to enrich knowledge about local flowers by providing flower identification and educational content for each recognized flower. The app utilizes advanced image recognition technology and an extensive botanical database to offer users a comprehensive learning experience.
+
 ## Overview
 
 The script focuses on developing a flower classification model using a pre-trained MobileNetV2 architecture with TensorFlow and Keras. The workflow involves data preprocessing, model building, training, and conversion to TensorFlow Lite format.
