@@ -1,4 +1,4 @@
-# Flower Classification Model using MobileNetV2
+# Bungaku Flower Classification Model using MobileNetV2
 
 **Bungaku** is a mobile app designed to enrich knowledge about local flowers by providing flower identification and educational content for each recognized flower. The app utilizes advanced image recognition technology and an extensive botanical database to offer users a comprehensive learning experience.
 
